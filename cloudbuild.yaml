@@ -1,0 +1,2 @@
+steps:
+    args: ['beta', 'functions', 'deploy', 'tg_bot', '--runtime=nodejs14', '--trigger-http', '--allow-unauthenticated']
