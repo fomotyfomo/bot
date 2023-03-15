@@ -57,7 +57,7 @@ const buttonForm = {
   }
 }
 try {
-  const token = '6281076262:AAFCn9nNCKer1XzEfb221UuTQPXSWZcHK24';
+  const token = '6044368756:AAE7BHrVZuQ6uJO3n4NkzVyJ1A9gXF05PmQ';
   const bot = new TelegramApi(token, { polling: true });
   getFunctional(bot)
 } catch (e) {
